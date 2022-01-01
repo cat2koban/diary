@@ -18,14 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: diary
+title: cat2koban.dev / diary
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  cat2koban の日記
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cat2koban
-github_username: cat2koban
 
 # Build settings
 theme: minima
